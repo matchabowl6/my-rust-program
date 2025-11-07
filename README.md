@@ -1,1 +1,1 @@
-My rust program (written to help me learn Rust)
+My rust program (I try to learn rust)
